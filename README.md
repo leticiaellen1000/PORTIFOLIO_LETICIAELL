@@ -20,6 +20,4 @@ Dificuldades/erros encontrados durante o desenvolvimento do projeto:
 
 Erro: EM CONSEGUIR COLOCAR AS ASPAS
 
-Link para acesso ao projeto:file:///C:/Users/Sec%20RN/Documents/Joci/LETICIAGGD.html
-
 CADASTRO NOME,SOBRENOME,ENDERECO,EMAIL.
