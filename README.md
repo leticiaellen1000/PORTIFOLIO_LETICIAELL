@@ -28,4 +28,6 @@ link do trabalho: https://script.google.com/u/2/home/projects/1vQVt8WVDFuuBdWyIi
 
 • google app script
 
+• Java script
 
+Dificuldades
