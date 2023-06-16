@@ -30,4 +30,8 @@ link do trabalho: https://script.google.com/u/2/home/projects/1vQVt8WVDFuuBdWyIi
 
 • Java script
 
-Dificuldades
+Dificuldades/erros encontrados durante o desenvolvimento do projeto:
+
+erros Nao e possivel ler as propriedades de null(lendo'value')
+
+descriçao: Não foi possivel realizar a propriedade especificada ao tentar utilizar a função getElementByld.
