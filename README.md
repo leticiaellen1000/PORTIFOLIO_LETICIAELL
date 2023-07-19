@@ -4,7 +4,7 @@ Portifolio
 
 Projeto: Página para calcular média
 
-Arquivo (s):
+Arquivo (s):LETICIAGGD
 
 ⚫ LETICIAGGD
 
@@ -36,12 +36,56 @@ erros Nao e possivel ler as propriedades de null(lendo'value')
 
 descriçao: Não foi possivel realizar a propriedade especificada ao tentar utilizar a função getElementByld.
 
+# Projeto:
 
-Projeto: Lista de exercicios I
+link do trabalho: https://script.google.com/macros/s/AKfycbzryXNRLCtjoBAcCK74xJC9pZm6k7ZHNIV4AU6iFrhKw6vktOTaOPbbAsQmx8kRIgrf/exec
 
-Arquivo (s):web
+Arquivo (s):leticia1dejunho
 
-⚫ leticia2106.txt
+Descrição: calcular as quatro medias.
+Tecnologias utilizadas:
+
+• JavaScript
+
+• Google App Script
+
+Dificuldades/erros encontrados durante o desenvolvimento do projeto:
+
+Erro: consegui fazer certo
+
+
+
+
+
+
+
+
+
+
+# Projeto: Lista de exercicios I
+
+link do trabalho: https://script.google.com/macros/s/AKfycbzPdaWy2tXoZvkYhBvhyGECroXUozNuKXTN2W1T0lnPNTsz587c_Bg5KtjM0SiSoa7bQg/exec
+
+Arquivo (s):leticia2106prim.txt
+
+Descrição: Desenvolver um projeto Google App
+Script que contenha um formulário HTML com os seguintes campos.
+
+Tecnologias utilizadas:
+
+• JavaScript
+
+• Google App Script
+
+Dificuldades/erros encontrados durante o desenvolvimento do projeto:
+
+Erro: Eu fiz na primeira vez e tinha dado quase certo, apareceu todos os campos mas com um codigo estranho e faltava outra coisa tambem. Tive dificulade em construir a parte do codigo label.
+
+# Projeto: Lista de exercicios I
+
+link do trabalho: https://script.google.com/macros/s/AKfycbzSU-JPsvSMJ99R5V0uOrDNf5RoOldDDuJfYs8sliKY7DEfsII6G-gurPagKyScWGYy/exec
+
+Arquivo (s):leticia2106.txt
 
 Descrição: Os dados do formulário deveriam ser enviados por meio do
 método POST do protocolo HTTP, calcule o valor final e exiba no log do servidor.
@@ -56,7 +100,6 @@ Dificuldades/erros encontrados durante o desenvolvimento do projeto:
 
 Erro:Na segunda questão do primeiro exercicio tive dificuladade em colocar o codigo certo no formulario, não consegui entender o erro do link no entanto parte da estrutura estava correto.
 
-dade especificada ao tentar utilizar a função getElementByld.
 
 
 
