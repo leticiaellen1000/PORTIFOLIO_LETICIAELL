@@ -1,0 +1,41 @@
+function doGet() {
+  return HtmlService.createHtmlOutputFromFile('calcule')
+}
+<!DOCTYPE html>
+<html>
+  <head>
+    <base target="_top">
+    
+    
+  </head>
+  <body>
+     
+    <label for="numero de dias do mes">Numero de dias do mes:</label>
+    <input type="number" id="numero de dias do mes"> 
+
+    <label for="quantidade de alunos na escola">quantidade de alunos na escola:</label>
+    <input type="number" id="quantidade de alunos na escola">
+
+    <label for="valor da refeiçao por dia">valor da refeiçao por dia:</label>
+    <input type="number" id="valor da refeiçao por dia">
+
+    <button onclick="calcular gastos()">Calcular gastos</button>
+
+
+    <script>
+
+      function calcule()
+      function calcularMedia()
+
+        var nota1 = document.getElementByld(´numero de dias do mes`).value;
+        var peso1 = document.getElementByld(´quantidade de alunos na escola`).value;
+        var nota2 = document.getElementByld(´valor da rfeiçao por dia`).value;
+        
+
+        google.script.run.withSuccessHandler(exibirMedia).calcularMedia;
+
+     google.script.run.withSuccessHandler(exibirMedia).calcularMedia;
+ </script>
+ 
+  </body>
+</html>
