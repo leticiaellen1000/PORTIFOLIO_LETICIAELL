@@ -61,7 +61,7 @@ Erro: Nao consegui entender a parte da funçao mas consegui fazer a parte do ema
 
 # Projeto: Mensagem e endereço 
 
-link do trabalho: https://script.google.com/macros/s/AKfycbzSU-JPsvSMJ99R5V0uOrDNf5RoOldDDuJfYs8sliKY7DEfsII6G-gurPagKyScWGYy/exec
+link do trabalho: https://script.google.com/macros/s/AKfycbz-uMYtLq673mMFNT7MwMYOwhn6Yi_lrMekCGR-tLY9CohZdhFi5qF3OiglS65-sfsGLA/exec
 
 ⚫ 1504lele.txt
 
