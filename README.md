@@ -38,8 +38,7 @@ descriçao: Não foi possivel realizar a propriedade especificada ao tentar util
 
 # Projeto:
 
-link do trabalho: https://script.google.com/macros/s/AKfycbzryXNRLCtjoBAcCK74xJC9pZm6k7ZHNIV4AU6iFrhKw6vktOTaOPbbAsQmx8kRIgrf/exec
-
+link do trabalho: Vhttps://script.google.com/macros/s/AKfycbz2bHlcZ6i8xsgqw6dg8ZiNw1R6hG39r87TuRGnuWoaJewwkFxjiyRyGaJPlGxk0JOZzQ/exec
 Arquivo (s):leticia1dejunho
 
 Descrição: calcular as quatro medias.
