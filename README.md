@@ -40,10 +40,12 @@ descriçao: Não foi possivel realizar a propriedade especificada ao tentar util
 
 link do trabalho:  https://script.google.com/macros/s/AKfycbz2bHlcZ6i8xsgqw6dg8ZiNw1R6hG39r87TuRGnuWoaJewwkFxjiyRyGaJPlGxk0JOZzQ/exec
 
-Arquivo (s):leticia1dejunho
+Arquivo (s):leticiaell2dejunho
 
-Descrição: calcular as quatro medias.
-Tecnologias utilizadas:
+⚫ Leticiaell2dejunho
+
+
+Descrição: atividade para cadastrar email,senha e enviar.
 
 • JavaScript
 
@@ -51,16 +53,7 @@ Tecnologias utilizadas:
 
 Dificuldades/erros encontrados durante o desenvolvimento do projeto:
 
-Erro: consegui fazer certo
-
-
-
-
-
-
-
-
-
+Erro: Nao consegui entender a parte da funçao mas consegui fazer a parte do email e senha com ajuda das fotos dos codigos semelhantes que eu tinha.
 
 # Projeto: Lista de exercicios I
 
