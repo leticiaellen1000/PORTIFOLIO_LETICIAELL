@@ -83,14 +83,13 @@ Erro: não tive erro pois o professor explicou no quadro, logo não tive dúvida
 
 # Projeto: livraria (salvando na planilha)
 
+⚫ lele2a1606.txt
+
 link do trabalho: https://script.google.com/macros/s/AKfycbxOP9OtGWcL9QpGevpaW0PtNh2xhyR_IDJRTRwEFeHMy3M_g0RbjoPkmJtLAkWsCU7VgQ/exec
 
-Arquivo (s):leticiaell2dejunho
+Arquivo (s):lele2a1606.txt
 
-⚫ Leticiaell2dejunho
-
-
-Descrição: atividade para cadastrar email,senha e enviar.
+Descrição: é um arquivo para cadastrar titulo do livro, autor, data de lançamento, quantidade de pagina, quantidade de livros.
 
 • JavaScript
 
@@ -98,16 +97,7 @@ Descrição: atividade para cadastrar email,senha e enviar.
 
 Dificuldades/erros encontrados durante o desenvolvimento do projeto:
 
-Erro: Nao consegui entender a parte da funçao mas consegui fazer a parte do email e senha com ajuda das fotos dos codigos semelhantes que eu tinha.
-
-
-
-
-
-
-
-
-
+Erro: tive dificuldade para fazar algumas partes do codigo gs porem o outro codigo consegui fazer
 
 
 # Projeto: Lista de exercicios I
