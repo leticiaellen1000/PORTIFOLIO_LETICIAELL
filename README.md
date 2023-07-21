@@ -55,6 +55,30 @@ Dificuldades/erros encontrados durante o desenvolvimento do projeto:
 
 Erro: Nao consegui entender a parte da funçao mas consegui fazer a parte do email e senha com ajuda das fotos dos codigos semelhantes que eu tinha.
 
+
+
+
+
+# Projeto: Mensagem e endereço 
+
+link do trabalho: https://script.google.com/macros/s/AKfycbzSU-JPsvSMJ99R5V0uOrDNf5RoOldDDuJfYs8sliKY7DEfsII6G-gurPagKyScWGYy/exec
+
+⚫ 1504lele.txt
+
+Arquivo (s):1504lele.txt
+
+Descrição: site criado com barra e mensagem mais endereço, é um site com codigo pequeno.
+
+Tecnologias utilizadas:
+
+• JavaScript
+
+• Google App Script
+
+Dificuldades/erros encontrados durante o desenvolvimento do projeto:
+
+Erro: não tive erro pois o professor explicou no quadro, logo não tive dúvidas.
+
 # Projeto: Lista de exercicios I
 
 link do trabalho: https://script.google.com/macros/s/AKfycbzPdaWy2tXoZvkYhBvhyGECroXUozNuKXTN2W1T0lnPNTsz587c_Bg5KtjM0SiSoa7bQg/exec
