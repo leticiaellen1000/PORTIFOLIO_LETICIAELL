@@ -55,10 +55,6 @@ Dificuldades/erros encontrados durante o desenvolvimento do projeto:
 
 Erro: Nao consegui entender a parte da funçao mas consegui fazer a parte do email e senha com ajuda das fotos dos codigos semelhantes que eu tinha.
 
-
-
-
-
 # Projeto: Mensagem e endereço 
 
 link do trabalho: https://script.google.com/macros/s/AKfycbz-uMYtLq673mMFNT7MwMYOwhn6Yi_lrMekCGR-tLY9CohZdhFi5qF3OiglS65-sfsGLA/exec
@@ -78,6 +74,41 @@ Tecnologias utilizadas:
 Dificuldades/erros encontrados durante o desenvolvimento do projeto:
 
 Erro: não tive erro pois o professor explicou no quadro, logo não tive dúvidas.
+
+
+
+
+
+
+
+# Projeto: livraria (salvando na planilha)
+
+link do trabalho: https://script.google.com/macros/s/AKfycbxOP9OtGWcL9QpGevpaW0PtNh2xhyR_IDJRTRwEFeHMy3M_g0RbjoPkmJtLAkWsCU7VgQ/exec
+
+Arquivo (s):leticiaell2dejunho
+
+⚫ Leticiaell2dejunho
+
+
+Descrição: atividade para cadastrar email,senha e enviar.
+
+• JavaScript
+
+• Google App Script
+
+Dificuldades/erros encontrados durante o desenvolvimento do projeto:
+
+Erro: Nao consegui entender a parte da funçao mas consegui fazer a parte do email e senha com ajuda das fotos dos codigos semelhantes que eu tinha.
+
+
+
+
+
+
+
+
+
+
 
 # Projeto: Lista de exercicios I
 
